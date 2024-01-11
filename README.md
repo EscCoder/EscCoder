@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EscCoder
 - 👀 I’m interested in New technologies
 - 🌱 I’m currently learning Python 
-- 💞️ 
+- 💞️ Machine Learning enthusiast
 - 📫 How to reach me 📧khodepallavi0@gmail.com
 
 <!---
